@@ -24,8 +24,6 @@ public class PersonEditDialogController {
     private TextField postalCodeField;
     @FXML
     private TextField cityField;
-    @FXML
-    private TextField birthdayField;
 
 
     private Stage dialogStage;
